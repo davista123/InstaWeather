@@ -22,7 +22,7 @@ def getMessage():
 
 	#Query for specific data
 	forecast = str(the_weather.get_detailed_status())
-	#Data stored in jsson in dictionary format. This allows for easy access to individual elements
+	#Data stored in json in dictionary format. This allows for easy access to individual elements
 	temperature_json = the_weather.get_temperature('celsius')
 	temperature = "%s" % temperature_json["temp"]
 
