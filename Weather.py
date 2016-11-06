@@ -1,21 +1,22 @@
+#Imports
 from pyowm import OWM
 from twilio.rest import TwilioRestClient
 import json
 
 
-#Constants Baby!!
+#CONSTANTS
 TWILIO_ACCOUNT_SID = "YOUR SID"
 TWILIO_AUTH_TOKEN = "YOUR AUTH TOKEN"
 FROM_NUMBER = "YOUR TWILIO NUMBER"
 TO_NUMBER = "YOUR NUMBER"
 PYOWMM_API_KEY = "YOUR PYOWM KEY"
 
-#Assign them
+#Assign twilio and pyowm keys
 CLIENT = TwilioRestClient(TWILIO_ACCOUNT_SID,TWILIO_AUTH_TOKEN)
 owm = OWM(PYOWM_API_KEY)
 
 
-def getMessage():
+def sendMessage():
 	#Obtain the weather instance
 	weather_data = owm.weather_at_place("Toronto,ca")#You can change the place as per your requirements
 	the_weather = weather_data.get_weather()
@@ -34,5 +35,5 @@ def getMessage():
 #Run the application
 if __name__ == "__main__":
 
-	getMessage()
+	sendMessage()
 	
