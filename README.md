@@ -26,4 +26,4 @@ I have tested it on Python 3.5+ but I'm confident that any python version of 2.7
 ## Great, it works, what's the big deal?
 
 * I am trying to explore the capabilities of building apps that do not require users to install the application itself. 
-* Can we build apps that just work when most vonvenient for the user rather thn staying on the device?
+* Can we build apps that just work when most convenient for the user rather than staying on the device?
