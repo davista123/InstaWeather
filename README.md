@@ -13,10 +13,10 @@ Get real time weather updates on your phone!
 
 ### _You can get these at :_
 
-1. https://www.twilio.com'
+1. https://www.twilio.com
 2. https://home.openweathermap.org/users/sign_up
 
-I also used the python library: PyOWM(https://github.com/csparpa/pyowm). Many thanks for simplyfying the code structure.
+I also used the python library: PyOWM(https://github.com/csparpa/pyowm). Many thanks for simplyfying my code structure.
 
 
 ## Support
