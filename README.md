@@ -4,11 +4,10 @@ Get real time weather updates on your phone!
 
 ## Usage
 
-1. Navigate to workspace and create a new virtual environment
+
 ```
 pip install  -r "requirements.txt"
 ```
-
 2. Using the terminal run:  _python Weather.py_
 3. Receive weather updates!
 
