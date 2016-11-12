@@ -8,8 +8,9 @@ Get real time weather updates on your phone!
 ```
 pip install  -r "requirements.txt"
 ```
-3. Using the terminal run:  _python Weather.py_
-4. Receive weather updates!
+
+2. Using the terminal run:  _python Weather.py_
+3. Receive weather updates!
 
 
 ## Requirements
