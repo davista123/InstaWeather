@@ -30,11 +30,6 @@ I also used the python library: PyOWM(https://github.com/csparpa/pyowm). Many th
 
 I have tested it on Python 3.5+ but I'm confident that any python version of 2.7+ can run it.
 
-## Great, it works, what's the big deal?
-
-* I am trying to explore the capabilities of building apps that do not require users to install the application itself. 
-* Can we build apps that just work when most convenient for the user rather than staying on the device?
-
 ## **TODO**
 
 - [ ] Send user a graph of Weather progress with a text message
