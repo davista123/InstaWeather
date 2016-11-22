@@ -1,5 +1,5 @@
 # InstaWeather
-Get real time weather updates on your phone.
+Get real time weather updates on your phone!
 
 ## Usage
 
