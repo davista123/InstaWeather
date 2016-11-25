@@ -33,5 +33,4 @@ I have tested it on Python 3.5+ but I'm confident that any python version of 2.7
 ## **TODO**
 
 - [ ] Send user a graph of Weather progress with a text message
-- [ ] Intergrate with Android to allow user to get weather updates simply by shaking the device
 
