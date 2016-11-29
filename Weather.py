@@ -32,7 +32,7 @@ def sendMessage():
 		+ " " + temperature +" "+ "degrees celsius"+" "+"today" )
 	return message	
 
-#Run the application
+
 if __name__ == "__main__":
 
 	sendMessage()
