@@ -1,4 +1,4 @@
-#Imports
+
 from pyowm import OWM
 from twilio.rest import TwilioRestClient
 import json
