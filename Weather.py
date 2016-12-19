@@ -3,7 +3,7 @@ from pyowm import OWM
 from twilio.rest import TwilioRestClient
 import json
 
-NTS
+#CONSTANTS VARIABLES
 TWILIO_ACCOUNT_SID = "YOUR SID"
 TWILIO_AUTH_TOKEN = "YOUR AUTH TOKEN"
 FROM_NUMBER = "YOUR TWILIO NUMBER"
